@@ -1047,7 +1047,6 @@ function pickMovie() {
   "Tantor's Mother from Tarzan",
   "Taran from The Black Cauldron",
   "Tarzan from Tarzan",
-  "Alex D. Linz[22] from ",
   "Taurus Bulba from Darkwing Duck",
   "Ted Betterhead from The Country Bears",
   "Terence from Disney Fairies",
