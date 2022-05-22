@@ -7,7 +7,7 @@ I created the site using JavaScript and HTML. The list of animated Disney charac
 ## More Info
 This was quickly built together, it's not perfect and doesn't have every character possible. I will continue to update it as time goes on.
 
-If you want to watch the TikTok I created aabout the site, you can find it on [TikTok](https://www.tiktok.com/@aidancomi/video/7026583382884650286) or [Youtube Shorts](https://youtu.be/SShJqY-Y79g).
+If you want to watch the TikTok I created about the site, you can find it on [TikTok](https://www.tiktok.com/@aidancomi/video/7026583382884650286) or [Youtube Shorts](https://youtu.be/SShJqY-Y79g).
 
 ## Contact
 If you want more information or have any questions please feel free to email me at  [contact@chrisprattisnowplaying.com](mailto:contact@chrisprattisnowplaying.com).
